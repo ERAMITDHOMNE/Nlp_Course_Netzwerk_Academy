@@ -1,0 +1,29 @@
+LancasterStemmer is simple, but heavy stemming due to iterations and over-stemming may occur. Over-stemming causes the stems to be not linguistic, or they may have no meaning.
+
+For example, in above code destabilized is stemmed to dest in LancasterStemmer whereas, 
+using PorterStemmer destabl. 
+LancasterStemmer produces an even shorter stem than porter because of iterations 
+and over-stemming is occurred.
+
+
+sklearn.datasets.load_iris() #  Available sklearn libraries 
+sklearn.datasets.load_diabetes()
+sklearn.datasets.load_digits()
+sklearn.datasets.load_wine()
+sklearn.datasets.load_boston()
+
+
+  total words in file - 10 
+  
+  words car appear only time =
+  
+  Average time word car appaear with the respect to total words in my document = 2 /10  ===  0.2
+  
+  
+  total sentence in file - 10 
+  
+  words car appear only time = 5 , 
+  
+  Average number of time word car with respect to sentence = 5 / 10 ===0.5
+  
+  

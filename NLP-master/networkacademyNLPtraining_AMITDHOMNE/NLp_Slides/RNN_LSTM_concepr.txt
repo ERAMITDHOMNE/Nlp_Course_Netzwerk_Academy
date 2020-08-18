@@ -1,0 +1,66 @@
+
+
+
+  A B C , , iloc , loc 
+A 1 2 3
+B 4 5 6
+C 7 8 9
+
+1 2 3
+4 5 6
+7 8 9
+
+
+1099/1115
+
+text - features - vector - array - how the vector data content or looks likes
+
+
+RNN - Recurrent Neural Network # deep Learning  , # deep learning is the subset of machine learning , deep learning = 1 litre mug water / out machine learning 10 liter which neural network
+LSTM - Long Short term Memory Algorithm   # deep Learning , Type of RNN algorithm
+
+Diifference between algorithm discussed before and we are discussing today is :
+
+HMM(Hidden Markov Model) - Memoryless # future event depand only current event # co
+
+Naive Bayes = Memory less  #  we are not saving past information , you will not going to use information of month june to fing weather of 9th july but , you will used 8th july weather condition information to find 9 th july weather
+
+RNN ,LSTM = Memory involve to network ,this network need to store information to find future event.For example eqaution = 2+3+4+5+6+7+8+9+12+13  , 2 -> 3 , 1 - > 3 , 2+3+4+5+6, Example : -I am Engineer graduate form NIT Rourkela, # work on bidirection
+
+I am Engineer graduate form NIT Rourkela = X  -> feature vector ->tokenization, stemming,lemmatization , imbalance dataset handling , used in RNN network , neural network, WX+b , from neuron and neuron in network
+
+
+Appliction - > MACHINE TRANSLATION , language translation , context finding ,sentiment analysis , For example I am worried today - sad , worried, quite , for Hurray ! I won the match , snetiment  - Happy , enjoying, party mood , 
+
+
+
+
+Amit given instruction to robot - . Hurray ! I am feeling very ______________ (HOT,COLD,BAD,HAPPY) -< Robot 
+
+
+
+1. Hurray!
+
+2 .Hurray! + I 
+
+3. Hurray ! I a
+
+4 Hurray ! I am feeling
+
+5  Hurray ! I am feeling very ________ HOT/COLD/BAD/HAPPY
+
+
+IF else 
+condition
+
+
+if query = refund in flipkart
+   reply : already refunded 700 rs to your account
+   
+if  query : product exchange  # neural network node save data in memory
+    reply : ok make request delivery person come at 9:00 am tomorrow to pick up exchange 
+	
+	
+	
+
+

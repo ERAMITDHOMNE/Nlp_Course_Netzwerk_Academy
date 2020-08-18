@@ -1,0 +1,6 @@
+RNN : What loop hole in RNN why we move to LSTm ,GRE (Gated Recurrent Neural Network)
+
+Answer :
+1 .RNN works on limited size of data(ex 1,2 sentences ,#It is not work well on big size whole document , 100 page ebook , 10 hour audio speech)
+2 It Face Vanishing Gradient Problem
+3 .It Face Exploding Gradient Problem

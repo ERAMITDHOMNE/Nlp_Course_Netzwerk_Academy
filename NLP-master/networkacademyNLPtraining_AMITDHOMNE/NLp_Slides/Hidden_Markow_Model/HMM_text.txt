@@ -1,0 +1,17 @@
+In my bags 6 balls are there
+ p = 1 /6
+ bags = 5
+ =1 / 5 red black
+ 
+ 
+ flip coin H T , 1/2, tossed 
+ 
+ 0<= Probalbilty <=1
+ 
+ Part of Speech (POS) finds noun,adverd,adjective, verb etc present in given text data in our documents
+ text mining, preprocessing, text analytics, find anonyms synonms
+ 
+ Speech recognition  like anger,laughing . voice range high
+ 
+ Genes/dna structure recognition HMM model based probability
+ 

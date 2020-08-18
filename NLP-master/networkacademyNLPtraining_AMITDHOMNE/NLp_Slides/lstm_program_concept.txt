@@ -1,0 +1,61 @@
+We can divide the dataset of 2000 examples into batches of 500 then
+it will take 4 iterations to complete 1 epoch.
+Where Batch Size is 500 and Iterations is 4, for 1 complete epoch.
+
+
+ 1 epoch  = total Number of iteration to complete/ go through whole datset of network 
+ Batch size  - 2000 row you in dataset but you are considering batch of data 500 in 1st iteration , next 500 (1000)in 2nd iteration and 
+ in 3rd iteration next 500(1500), and next 500(2000) in 4th iteration from left to right
+0 2000
+
+
+500 you do iteration 
+1000
+
+
+
+
+
+multivariate vs univariate
+
+Univariate  - when you are taking into considertion only one independent variable (input feature) and one out  variable (classification label/class)
+
+For example  - Machine learning/NLP model to detect person is obesity / Normal
+
+
+Input faeture - weight - 80 ,90,100, 200  (input feature )  - if weight > = 100 classify as obesity # one to one mapping                     
+                                                              else classify normal 
+
+  
+VS 
+  
+Multivariate - when you are taking into considertion multiple independent variable (input feature) and one or more out variable variable (classification label/class)
+
+weight - 80 ,90,100, 200  (2 input feature )  - if weight > = 100 and height > = 6 classify as obesity  
+# many to one mapping                            else classify normal                      
+
+Height - 4 ft , 5ft , 6ft , 7ft  
+
+# output variable depand on binary classification # many to one mapping  or multiclassification ,# many to many ,#    
+
+ 
+ ,
+
+ First observation in 12:10              25 C  50 k  23 mbar
+second observation in 12:20
+third observation in   12:30
+ four observation in 12:40
+ Fiveth observation in 12:50
+sixth observation in 12:60  == 1:00
+   12 - 1 ==6 obesrvation
+   24 in a day : 24 * 6 =144 observation data to work  144 rows in dataset
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
