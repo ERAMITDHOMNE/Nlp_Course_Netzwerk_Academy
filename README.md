@@ -1,2 +1,2 @@
-# Nlp_Course_Netzwer_Academy
-# NLP,   "NLP Training", " BY- AMIT DHOMNE" }  This is Lecture for  Natural language Processing concepts and program for extraction of data from pdf file.Please go through slides to understand concepts of NLP, data preprocessing, Vector representation etc and try to run code over Google colab and anaconda jupyter to extract data from pdf document.
+# Nlp_Course_NetzweKr_Academy
+# NLP,   "NLP Training", " #Instructor - AMIT DHOMNE" }  This is Lecture for  Natural language Processing Master Course concepts and program .Please go through slides to understand concepts of NLP, data preprocessing, Vector representation,Algorithms and codes etc and try to run code over Google colab and anaconda jupyter 
